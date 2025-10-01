@@ -2,7 +2,7 @@
  * @author Marko Skorupan
  * @version 1.0.0
  * @date 2025-10-01
- * @fileoverview "Displays Happy Birthday song with my name."
+ * @fileoverview "Calculates my year born and year graduating using sum, difference, product, quotient, and modulo"
  */
 
 // Headings fot the program
